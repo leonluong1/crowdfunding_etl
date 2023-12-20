@@ -15,4 +15,4 @@ Here are snapshots of the database:
 [Selecting the category table](https://github.com/leonluong1/crowdfunding_etl/blob/main/Snapshots/selecting_category.png)  
 [Selecting the sub-category table](https://github.com/leonluong1/crowdfunding_etl/blob/main/Snapshots/selecting_subcategory.png)  
 [Selecting the contacts table](https://github.com/leonluong1/crowdfunding_etl/blob/main/Snapshots/selecting_contacts.png)  
-[Selecting the sub-contacts table](https://github.com/leonluong1/crowdfunding_etl/blob/main/Snapshots/selecting_campaign.png)
+[Selecting the campaign table](https://github.com/leonluong1/crowdfunding_etl/blob/main/Snapshots/selecting_campaign.png)
