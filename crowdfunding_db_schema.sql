@@ -1,7 +1,8 @@
 ﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
--- Link to schema: https://app.quickdatabasediagrams.com/#/d/R6eiy7
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
+-- DROP DATABASE IF EXISTS crowdfunding_db;
+-- CREATE DATABASE crowdfunding_db;
 
 CREATE TABLE Category (
     "category_id" VARCHAR(8)   NOT NULL,
@@ -15,7 +16,7 @@ CREATE TABLE Subcategory (
     "subcategory_id" VARCHAR(8)   NOT NULL,
     "subcategory" VARCHAR(64)   NOT NULL,
     CONSTRAINT pk_Subcategory PRIMARY KEY (
-        "subcategory_id","subcategory"
+        "subcategory_id"
      )
 );
 
